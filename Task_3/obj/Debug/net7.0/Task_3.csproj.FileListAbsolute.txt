@@ -1,0 +1,14 @@
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/bin/Debug/net7.0/Task_3
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/bin/Debug/net7.0/Task_3.deps.json
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/bin/Debug/net7.0/Task_3.runtimeconfig.json
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/bin/Debug/net7.0/Task_3.dll
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/bin/Debug/net7.0/Task_3.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/obj/Debug/net7.0/Task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/obj/Debug/net7.0/Task_3.AssemblyInfoInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/obj/Debug/net7.0/Task_3.AssemblyInfo.cs
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/obj/Debug/net7.0/Task_3.csproj.CoreCompileInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/obj/Debug/net7.0/Task_3.dll
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/obj/Debug/net7.0/refint/Task_3.dll
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/obj/Debug/net7.0/Task_3.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/obj/Debug/net7.0/Task_3.genruntimeconfig.cache
+/Users/aleksandravoronina/Desktop/GB/C#/HomeWork_2/Task_3/obj/Debug/net7.0/ref/Task_3.dll
